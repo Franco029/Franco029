@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Banner Principal -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,100:00796b&height=180&section=header&text=TuNombre&fontSize=40&fontColor=ffffff&desc=Ing.%20Civil%20Inform%C3%A1tica%20-%20USS&descSize=18&descAlignY=62" />
