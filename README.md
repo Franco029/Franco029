@@ -5,7 +5,7 @@
 
 ---
 
-### `> whoami`
+
 
 Desarrollando mi camino en el mundo del software con base sólida en algoritmia, sistemas y desarrollo de aplicaciones. Orientado a construir soluciones elegantes y bien razonadas.
 
