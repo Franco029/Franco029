@@ -26,3 +26,6 @@ LOCATION="Concepción, Chile 📍"
 DEGREE="Ingeniería Civil en Informática — Universidad San Sebastián"
 ROLE="Full Stack Developer & Automation Enthusiast"
 STATUS="Construyendo soluciones eficientes y escalables."
+
+
+> stack --list
