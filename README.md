@@ -63,7 +63,7 @@ STATUS="Construyendo soluciones eficientes y escalables."
 | :--- | :--- | :--- | :--- |
 | 📊 **Gestor Inventario Textil** | Sistema web integral para el control de stock, automatización de inventarios y flujos logísticos en servidores de producción. | `Python`, `SQL Server`, `HTML/CSS` | <img src="https://img.shields.io/badge/Finalizado-green?style=flat-square" /> |
 | 🤖 **Binance Trading Bot** | Bot automatizado para análisis técnico y ejecución de órdenes en tiempo real utilizando la API oficial de Binance. | `Python`, `Binance API`, `SQL` | <img src="https://img.shields.io/badge/En_Desarrollo-orange?style=flat-square" /> |
-| 🧏‍♂️ **PhilSafer (Emergencia)** | Sistema de comunicación digital estructurado en dos perspectivas: la comunidad sorda (usuarios) y Carabineros (institución receptora). | `System Design`, `UI/UX` | <img src="https://img.shields.io/badge/Propuesta-blue?style=flat-square" /> |
+| 🧏‍♂️ **SOS carabineros (Emergencia)** | Sistema de comunicación digital estructurado en dos perspectivas: la comunidad sorda (usuarios) y Carabineros (institución receptora). | `System Design`, `UI/UX` | <img src="https://img.shields.io/badge/Propuesta-blue?style=flat-square" /> |
 | 🛒 **Integración ESL** | Investigación técnica, mapeo de SKUs y cotización de infraestructura base para la implementación de etiquetas electrónicas en retail. | `Hardware Tech`, `Análisis` | <img src="https://img.shields.io/badge/Investigación-purple?style=flat-square" /> |
 
 ---
