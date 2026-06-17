@@ -26,11 +26,11 @@ Desarrollador de software con formación en **Ingeniería Civil Informática**, 
   </tr>
   <tr>
     <td>🎓 <strong>Carrera</strong></td>
-    <td>Ingeniería Civil Informática — Universidad San Sebastián</td>
+    <td>Ingeniería Civil Informática</td>
   </tr>
   <tr>
-    <td>🔧 <strong>Enfoque</strong></td>
-    <td>Software Design · Web Dev · Automation · Systems</td>
+    <td>🏁 <strong>Enfoque</strong></td>
+    <td>Software Design · Web Dev · AutomatiZación · Sol. TI</td>
   </tr>
   <tr>
     <td>🚀 <strong>Estado</strong></td>
@@ -65,7 +65,7 @@ Desarrollador de software con formación en **Ingeniería Civil Informática**, 
 
 | Proyecto | Descripción | Tecnologías | Estado |
 | :--- | :--- | :--- | :--- |
-| 📊 **Gestor Inventario Textil** | Sistema web para control de stock, automatización de inventarios y flujos logísticos en producción. | `Python` `SQL Server` `HTML/CSS` | ![Finalizado](https://img.shields.io/badge/Finalizado-2ea44f?style=flat-square) |
+| 📊 **Gestor Inventario Textil** | Sistema web para control de stock, automatización de inventarios y flujos logísticos en producción. | `Python` `SQL Server` `HTML/CSS` | ![En Desarrollo](https://img.shields.io/badge/En_Desarrollo-e69c0a?style=flat-square) |
 | 🐾 **Tienda Mascotas Web** | E-commerce completo con catálogo, carrito y flujo de compra para tienda de mascotas. | `HTML` `CSS` `JavaScript` | ![Finalizado](https://img.shields.io/badge/Finalizado-2ea44f?style=flat-square) |
 | 🤖 **Binance Trading Bot** | Bot automatizado para análisis técnico y ejecución de órdenes en tiempo real mediante la API de Binance. | `Python` `Binance API` `SQL` | ![En Desarrollo](https://img.shields.io/badge/En_Desarrollo-e69c0a?style=flat-square) |
 | 🧏 **SOS Carabineros — LENSE** | App móvil y panel web para comunicación de emergencia entre la comunidad sorda y Carabineros de Chile. | `React Native` `Expo` | ![Propuesta](https://img.shields.io/badge/Propuesta-0075ca?style=flat-square) |
