@@ -12,9 +12,8 @@
   </a>
 </p>
 ---
-
+---
 <!-- 2. SOBRE MÍ -->
-W
 
 Desarrollador de software en constante evolución, con una sólida formación en algoritmia, arquitectura de sistemas y metodologías ágiles. Enfocado en la creación de soluciones eficientes, automatizaciones inteligentes y aplicaciones web escalables.
 
@@ -26,11 +25,9 @@ DEGREE="Ingeniería Civil en Informática — Universidad San Sebastián"
 ROLE="Full Stack Developer & Automation Enthusiast"
 STATUS="Construyendo soluciones eficientes y escalables."
 ```
-
 ---
 
 <!-- 3. STACK TECNOLÓGICO -->
-### `> stack --list`
 
 #### 💻 Lenguajes y Backend
 <p align="left">
@@ -50,7 +47,6 @@ STATUS="Construyendo soluciones eficientes y escalables."
 ---
 
 <!-- 4. PORTAFOLIO / WEB PERSONAL -->
-### `> netstat --route`
 
 <p align="left">
   <a href="https://tu-sitio-web.com" target="_blank">
@@ -61,7 +57,6 @@ STATUS="Construyendo soluciones eficientes y escalables."
 ---
 
 <!-- 5. APARTADO PARA PROYECTOS -->
-### `> ls ./projects`
 
 | Proyecto | Descripción | Tecnologías | Estado |
 | :--- | :--- | :--- | :--- |
@@ -72,7 +67,6 @@ STATUS="Construyendo soluciones eficientes y escalables."
 
 ---
 
-### `> git stats --user Franco029`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Franco029&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" height="160" />
