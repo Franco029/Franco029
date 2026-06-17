@@ -1,4 +1,4 @@
----
+
 <!-- 1. BLOQUE DE ARRIBA (BANNER PREMIUM) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=200&section=header&text=Franco%20Sep%C3%BAlveda&fontSize=42&fontColor=e0e1dd&desc=Ingenier%C3%ADa%20Civil%20Inform%C3%A1tica&descSize=18&descAlignY=62&descColor=10b981" />
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+---
 
 <!-- 2. SOBRE MÍ -->
 
